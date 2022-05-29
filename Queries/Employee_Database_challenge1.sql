@@ -1,5 +1,5 @@
 <<<<<<< HEAD
--- Deliverable #1a. 
+-- Deliverable #1/part 1 
 -- Create a table with emp #, first & last name, title, from date, & to date
 -- This table will be a list of current employees born between 1/1/1952-12/31/1955
 SELECT e.emp_no,
