@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- Deliverable #1a. 
 -- Create a table with emp #, first & last name, title, from date, & to date
 -- This table will be a list of current employees born between 1/1/1952-12/31/1955
@@ -48,3 +49,6 @@ FROM employees AS e
 	ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND t.to_date = '9999-01-01';
+=======
+
+>>>>>>> be32d6adaea9a158e0bbe0cde6540725e37709e8
